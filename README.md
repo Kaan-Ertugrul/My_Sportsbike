@@ -1,2 +1,2 @@
 # My_Sportsbike
-A tribute-style webpage for my late supersport.
+My 1st project following the freeCodeCamp cirriculumn.
